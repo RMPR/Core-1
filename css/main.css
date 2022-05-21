@@ -27,6 +27,7 @@ body, html {
 canvas {
 	border: 6px #333333 solid;
 	cursor: crosshair;
+    background-color: #777777;
 	z-index: 1;
 }
 
